@@ -6,7 +6,7 @@ This website is mainly application developed for health related based website in
 
 **Project Link** -https://ashy-moss-0bb724c00.2.azurestaticapps.net/index.html
 
-%***Project demo video link**- 
+%***Project demo video link**- https://youtu.be/r6rVdmsE6WY
 
 ## Features and Functionalities 😃
 
